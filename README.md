@@ -6,7 +6,7 @@ I created a structured plan for myself that balances learning, hands-on projects
 ### Week 1-2: DevOps Basics
 
 #### Courses
-- [Introduction to DevOps](https://www.coursera.org/learn/devops)
+- [Introduction to DevOps]([https://www.coursera.org/learn/devops](https://www.coursera.org/learn/intro-to-devops?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwsPCyBhD4ARIsAPaaRf1T6E5ZrKl_645vNkGEvbb3XwPxtLZlt4GIxJ0DZefTETC4FE-ij0QaAn_2EALw_wcB))
 - [Version Control with Git](https://www.codecademy.com/learn/learn-git)
 
 #### Project
