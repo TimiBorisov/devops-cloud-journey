@@ -16,10 +16,10 @@ I created a structured plan for myself that balances learning, hands-on projects
 
 #### Courses
 - [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics)
-- [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/Curriculum?id=20685)
+- [AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwsPCyBhD4ARIsAPaaRf3xqsjlK2KKBSn-UJrfOEI9ZdxMYLPqzBR003pXjKmO_M3LhSljo70aAjlrEALw_wcB)
 
 #### Project
-- **Basic Cloud Deployment**: Sign up for AWS Free Tier, deploy a static website using Amazon S3. Document the steps in a blog post or README.
+- **Basic Cloud Deployment**: Sign up for AWS Free Tier, deploy a static website using Amazon S3. Document the steps.
 
 ## Month 2: DevOps Tools and Cloud Services
 
