@@ -111,9 +111,6 @@ I created a structured plan for myself that balances learning, hands-on projects
 
 ### Week 3-4: Job Applications and Continuous Learning
 
-#### Resume and LinkedIn
-- Update your resume and LinkedIn profile to highlight new skills, projects, and certifications (1 hour/day)
-
 #### Job Search
 - Apply for DevOps and Cloud Engineer positions on LinkedIn, Indeed, Glassdoor (1 hour/day)
 
