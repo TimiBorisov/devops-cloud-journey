@@ -26,8 +26,9 @@ I created a structured plan for myself that balances learning, hands-on projects
 ### Week 1-2: CI/CD and Configuration Management
 
 #### Courses
-- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-delivery)
-- [Configuration Management with Ansible](https://www.udemy.com/course/ansible-for-the-absolute-beginner-hands-on-devops/)
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd)
+- [Ansible Fundamentals](]https://www.coursera.org/projects/ansible-fundamentals)
+- [Configuration Management with Ansible](https://www.udemy.com/course/learn-ansible/?couponCode=OF53124)
 
 #### Project
 - **CI/CD Pipeline**: Set up a CI/CD pipeline for a sample application using Jenkins or GitLab CI. Automate the build, test, and deployment processes.
@@ -35,8 +36,8 @@ I created a structured plan for myself that balances learning, hands-on projects
 ### Week 3-4: Containers and Orchestration
 
 #### Courses
-- [Docker for Beginners](https://www.udemy.com/course/docker-tutorial-for-beginners/)
-- [Kubernetes for Beginners](https://www.coursera.org/learn/kubernetes)
+- [Docker for Beginners](https://www.udemy.com/course/learn-docker/?couponCode=OF53124)
+- [Kubernetes for Beginners](https://www.udemy.com/course/learn-kubernetes/?couponCode=OF53124)
 
 #### Project
 - **Containerized Application**: Containerize a simple web application using Docker and deploy it on a local Kubernetes cluster using Minikube. Document the setup and deployment process.
@@ -83,6 +84,7 @@ I created a structured plan for myself that balances learning, hands-on projects
 ## Month 5: Projects and Advanced Topics
 
 ### Week 1-2: DevOps Project
+- [Projects](https://www.udemy.com/course/decodingdevops/learn/lecture/26445416?start=0#overview)
 
 #### Project
 - **Complete CI/CD Pipeline**: Develop a complete CI/CD pipeline for a multi-service application (e.g., frontend, backend, database). Use Jenkins, Docker, Kubernetes, and AWS. Document each step and create a comprehensive README.
@@ -117,3 +119,16 @@ I created a structured plan for myself that balances learning, hands-on projects
 
 #### Continuous Learning
 - Follow DevOps and Cloud blogs, webinars, and podcasts to stay updated (1 hour/day)
+
+- Monday to Friday:
+•	6:00 PM - 7:00 PM: DevOps/Cloud Course
+•	7:00 PM - 8:00 PM: Hands-on Project
+•	8:00 PM - 8:30 PM: Review and Document Progress
+Saturday:
+•	9:00 AM - 12:00 PM: Deep Dive into Projects or Additional Learning
+•	1:00 PM - 2:00 PM: Community Engagement (Forums, Study Groups)
+Sunday:
+•	9:00 AM - 10:00 AM: Review Week’s Learning
+•	10:00 AM - 11:00 AM: Plan for the Next Week
+•	11:00 AM - 12:00 PM: Certification Preparation
+
